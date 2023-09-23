@@ -1,27 +1,34 @@
+
 @import url('https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Kalam&display=swap');
+
 * {
-    box-sizing: border-box;
-}
-html {
-    font-family: 'Indie Flower', cursive;
+  box-sizing: border-box;
 }
 
-body  {
+html {
+  font-family: 'Indie Flower', cursive;
+}
+
+
+body {
     margin: 0;
     background: #461959;
-}
+  }
 
-.center {
+  .center {
     text-align: center;
     display: flex;
     justify-content: center;
     align-items: center;
-}
+  }
 
-.tring{
-    color: #AED8CC;
-    color: #CD6688;
-    color: #7A316F;
-    color: #461959;
-}
+
+  .tring{
+
+    color:#AED8CC;
+    color:#CD6688;
+    color:#7A316F;
+    color:#461959 ;
+    }
+    
